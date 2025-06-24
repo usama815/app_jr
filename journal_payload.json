@@ -1,0 +1,1130 @@
+{
+  "line": [
+    {
+      "Amount": 23555.81,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Admin split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6001 Employee Expenses:Employee salaries and wages"
+        },
+        "ClassRef": {
+          "name": "Admin"
+        }
+      }
+    },
+    {
+      "Amount": 32191.54,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Fundraising split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6001 Employee Expenses:Employee salaries and wages"
+        },
+        "ClassRef": {
+          "name": "Fundraising"
+        }
+      }
+    },
+    {
+      "Amount": 21089.71,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Philanthropic Education split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6001 Employee Expenses:Employee salaries and wages"
+        },
+        "ClassRef": {
+          "name": "Programs:General Programs:Philanthropic Education"
+        }
+      }
+    },
+    {
+      "Amount": 38805.62,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6001 Employee Expenses:Employee salaries and wages"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - General"
+        }
+      }
+    },
+    {
+      "Amount": 6381.31,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Grantmaking - Mgmt - FL split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6001 Employee Expenses:Employee salaries and wages"
+        },
+        "ClassRef": {
+          "name": "Programs:Grantmaking:Management, Coordination, Advising:Florida"
+        }
+      }
+    },
+    {
+      "Amount": 2857.87,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Grantmaking - Mgmt - TX split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6001 Employee Expenses:Employee salaries and wages"
+        },
+        "ClassRef": {
+          "name": "Programs:Grantmaking:Management, Coordination, Advising:Texas"
+        }
+      }
+    },
+    {
+      "Amount": 15871.2,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI- FL - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6001 Employee Expenses:Employee salaries and wages"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - FL"
+        }
+      }
+    },
+    {
+      "Amount": 12575.94,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI- TX - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6001 Employee Expenses:Employee salaries and wages"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - TX"
+        }
+      }
+    },
+    {
+      "Amount": 13156.86,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Research & Strategy split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6001 Employee Expenses:Employee salaries and wages"
+        },
+        "ClassRef": {
+          "name": "Programs:General Programs:Research & Strategy"
+        }
+      }
+    },
+    {
+      "Amount": 17071.49,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Services - Field Services split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6001 Employee Expenses:Employee salaries and wages"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - Field Services & Convening"
+        }
+      }
+    },
+    {
+      "Amount": 1182.38,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - TBD split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6001 Employee Expenses:Employee salaries and wages"
+        },
+        "ClassRef": {
+          "name": "Programs"
+        }
+      }
+    },
+    {
+      "Amount": 1672.38,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Admin split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6002 Employee Expenses:Employee Benefit Stipends (wellness, cell, tech)"
+        },
+        "ClassRef": {
+          "name": "Admin"
+        }
+      }
+    },
+    {
+      "Amount": 870.6,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Fundraising split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6002 Employee Expenses:Employee Benefit Stipends (wellness, cell, tech)"
+        },
+        "ClassRef": {
+          "name": "Fundraising"
+        }
+      }
+    },
+    {
+      "Amount": 2480.0,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Philanthropic Education split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6002 Employee Expenses:Employee Benefit Stipends (wellness, cell, tech)"
+        },
+        "ClassRef": {
+          "name": "Programs:General Programs:Philanthropic Education"
+        }
+      }
+    },
+    {
+      "Amount": 425.0,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6002 Employee Expenses:Employee Benefit Stipends (wellness, cell, tech)"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - General"
+        }
+      }
+    },
+    {
+      "Amount": 175.0,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Grantmaking - Mgmt - FL split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6002 Employee Expenses:Employee Benefit Stipends (wellness, cell, tech)"
+        },
+        "ClassRef": {
+          "name": "Programs:Grantmaking:Management, Coordination, Advising:Florida"
+        }
+      }
+    },
+    {
+      "Amount": 1150.0,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Grantmaking - Mgmt - TX split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6002 Employee Expenses:Employee Benefit Stipends (wellness, cell, tech)"
+        },
+        "ClassRef": {
+          "name": "Programs:Grantmaking:Management, Coordination, Advising:Texas"
+        }
+      }
+    },
+    {
+      "Amount": 900.0,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI- FL - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6002 Employee Expenses:Employee Benefit Stipends (wellness, cell, tech)"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - FL"
+        }
+      }
+    },
+    {
+      "Amount": 525.6,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI- TX - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6002 Employee Expenses:Employee Benefit Stipends (wellness, cell, tech)"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - TX"
+        }
+      }
+    },
+    {
+      "Amount": 1000.0,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Research & Strategy split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6002 Employee Expenses:Employee Benefit Stipends (wellness, cell, tech)"
+        },
+        "ClassRef": {
+          "name": "Programs:General Programs:Research & Strategy"
+        }
+      }
+    },
+    {
+      "Amount": 1494.58,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Services - Field Services split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6002 Employee Expenses:Employee Benefit Stipends (wellness, cell, tech)"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - Field Services & Convening"
+        }
+      }
+    },
+    {
+      "Amount": 2061.91,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - TBD split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6002 Employee Expenses:Employee Benefit Stipends (wellness, cell, tech)"
+        },
+        "ClassRef": {
+          "name": "Programs"
+        }
+      }
+    },
+    {
+      "Amount": 1340.49,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Admin split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6004 Employee Expenses:Payroll Taxes - FICA (SS) Employer"
+        },
+        "ClassRef": {
+          "name": "Admin"
+        }
+      }
+    },
+    {
+      "Amount": 2475.67,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Fundraising split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6004 Employee Expenses:Payroll Taxes - FICA (SS) Employer"
+        },
+        "ClassRef": {
+          "name": "Fundraising"
+        }
+      }
+    },
+    {
+      "Amount": 413.59,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Philanthropic Education - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6004 Employee Expenses:Payroll Taxes - FICA (SS) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:General Programs:Philanthropic Education"
+        }
+      }
+    },
+    {
+      "Amount": 184.87,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6004 Employee Expenses:Payroll Taxes - FICA (SS) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - General"
+        }
+      }
+    },
+    {
+      "Amount": 1036.99,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Grantmaking - Mgmt - FL split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6004 Employee Expenses:Payroll Taxes - FICA (SS) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:Grantmaking:Management, Coordination, Advising:Florida"
+        }
+      }
+    },
+    {
+      "Amount": 822.21,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Grantmaking - Mgmt - TX split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6004 Employee Expenses:Payroll Taxes - FICA (SS) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:Grantmaking:Management, Coordination, Advising:Texas"
+        }
+      }
+    },
+    {
+      "Amount": 837.4,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI- FL - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6004 Employee Expenses:Payroll Taxes - FICA (SS) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - FL"
+        }
+      }
+    },
+    {
+      "Amount": 1102.19,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI- TX - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6004 Employee Expenses:Payroll Taxes - FICA (SS) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - TX"
+        }
+      }
+    },
+    {
+      "Amount": 349.54,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Research & Strategy split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6004 Employee Expenses:Payroll Taxes - FICA (SS) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:General Programs:Research & Strategy"
+        }
+      }
+    },
+    {
+      "Amount": 482.23,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Services - Field Services split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6004 Employee Expenses:Payroll Taxes - FICA (SS) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - Field Services & Convening"
+        }
+      }
+    },
+    {
+      "Amount": 313.5,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - TBD split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6004 Employee Expenses:Payroll Taxes - FICA (SS) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs"
+        }
+      }
+    },
+    {
+      "Amount": 578.99,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Admin split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6005 Employee Expenses:Payroll Taxes - FICA (Medicare) Employer"
+        },
+        "ClassRef": {
+          "name": "Admin"
+        }
+      }
+    },
+    {
+      "Amount": 96.73,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Fundraising split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6005 Employee Expenses:Payroll Taxes - FICA (Medicare) Employer"
+        },
+        "ClassRef": {
+          "name": "Fundraising"
+        }
+      }
+    },
+    {
+      "Amount": 43.24,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Philanthropic Education split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6005 Employee Expenses:Payroll Taxes - FICA (Medicare) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:General Programs:Philanthropic Education"
+        }
+      }
+    },
+    {
+      "Amount": 242.52,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6005 Employee Expenses:Payroll Taxes - FICA (Medicare) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - General"
+        }
+      }
+    },
+    {
+      "Amount": 192.29,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Grantmaking - Mgmt - FL split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6005 Employee Expenses:Payroll Taxes - FICA (Medicare) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:Grantmaking:Management, Coordination, Advising:Florida"
+        }
+      }
+    },
+    {
+      "Amount": 195.85,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Grantmaking - Mgmt - TX split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6005 Employee Expenses:Payroll Taxes - FICA (Medicare) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:Grantmaking:Management, Coordination, Advising:Texas"
+        }
+      }
+    },
+    {
+      "Amount": 257.77,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI- FL - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6005 Employee Expenses:Payroll Taxes - FICA (Medicare) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - FL"
+        }
+      }
+    },
+    {
+      "Amount": 1829.76,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI- TX - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6005 Employee Expenses:Payroll Taxes - FICA (Medicare) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - TX"
+        }
+      }
+    },
+    {
+      "Amount": 2755.9,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Research & Strategy split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6005 Employee Expenses:Payroll Taxes - FICA (Medicare) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:General Programs:Research & Strategy"
+        }
+      }
+    },
+    {
+      "Amount": 1537.73,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Services - Field Services split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6005 Employee Expenses:Payroll Taxes - FICA (Medicare) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - Field Services & Convening"
+        }
+      }
+    },
+    {
+      "Amount": 3425.81,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - TBD split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6005 Employee Expenses:Payroll Taxes - FICA (Medicare) Employer"
+        },
+        "ClassRef": {
+          "name": "Programs"
+        }
+      }
+    },
+    {
+      "Amount": 1209.14,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Admin split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6010 Employee Expenses:Employee Benefits - Insurance Premiums"
+        },
+        "ClassRef": {
+          "name": "Admin"
+        }
+      }
+    },
+    {
+      "Amount": 837.47,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Fundraising split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6010 Employee Expenses:Employee Benefits - Insurance Premiums"
+        },
+        "ClassRef": {
+          "name": "Fundraising"
+        }
+      }
+    },
+    {
+      "Amount": 514.99,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Philanthropic Education split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6010 Employee Expenses:Employee Benefits - Insurance Premiums"
+        },
+        "ClassRef": {
+          "name": "Programs:General Programs:Philanthropic Education"
+        }
+      }
+    },
+    {
+      "Amount": 169.25,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6010 Employee Expenses:Employee Benefits - Insurance Premiums"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - General"
+        }
+      }
+    },
+    {
+      "Amount": 977.5,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI FL split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6010 Employee Expenses:Employee Benefits - Insurance Premiums"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - FL"
+        }
+      }
+    },
+    {
+      "Amount": 1415.51,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI TX split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6010 Employee Expenses:Employee Benefits - Insurance Premiums"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - TX"
+        }
+      }
+    },
+    {
+      "Amount": 242.73,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Grantmaking - Mgmt - FL split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6010 Employee Expenses:Employee Benefits - Insurance Premiums"
+        },
+        "ClassRef": {
+          "name": "Programs:Grantmaking:Management, Coordination, Advising:Florida"
+        }
+      }
+    },
+    {
+      "Amount": 271.83,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Grantmaking - Mgmt - TX split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6010 Employee Expenses:Employee Benefits - Insurance Premiums"
+        },
+        "ClassRef": {
+          "name": "Programs:Grantmaking:Management, Coordination, Advising:Texas"
+        }
+      }
+    },
+    {
+      "Amount": 44.17,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Research & Strategy split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6010 Employee Expenses:Employee Benefits - Insurance Premiums"
+        },
+        "ClassRef": {
+          "name": "Programs:General Programs:Research & Strategy"
+        }
+      }
+    },
+    {
+      "Amount": 95.69,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Field Services split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6010 Employee Expenses:Employee Benefits - Insurance Premiums"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - Field Services & Convening"
+        }
+      }
+    },
+    {
+      "Amount": 2.43,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Admin split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6007 Employee Expenses:Payroll Taxes - SUTA"
+        },
+        "ClassRef": {
+          "name": "Admin"
+        }
+      }
+    },
+    {
+      "Amount": 2.43,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Fundraising split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6007 Employee Expenses:Payroll Taxes - SUTA"
+        },
+        "ClassRef": {
+          "name": "Fundraising"
+        }
+      }
+    },
+    {
+      "Amount": 9.57,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Philanthropic Education - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6007 Employee Expenses:Payroll Taxes - SUTA"
+        },
+        "ClassRef": {
+          "name": "Programs:General Programs:Philanthropic Education"
+        }
+      }
+    },
+    {
+      "Amount": 11.96,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6007 Employee Expenses:Payroll Taxes - SUTA"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - General"
+        }
+      }
+    },
+    {
+      "Amount": 53.1,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Grantmaking - Mgmt - FL split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6007 Employee Expenses:Payroll Taxes - SUTA"
+        },
+        "ClassRef": {
+          "name": "Programs:Grantmaking:Management, Coordination, Advising:Florida"
+        }
+      }
+    },
+    {
+      "Amount": 13.78,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Grantmaking - Mgmt - TX split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6007 Employee Expenses:Payroll Taxes - SUTA"
+        },
+        "ClassRef": {
+          "name": "Programs:Grantmaking:Management, Coordination, Advising:Texas"
+        }
+      }
+    },
+    {
+      "Amount": 989.53,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI- FL - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6007 Employee Expenses:Payroll Taxes - SUTA"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - FL"
+        }
+      }
+    },
+    {
+      "Amount": 1354.56,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI- TX - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6007 Employee Expenses:Payroll Taxes - SUTA"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - TX"
+        }
+      }
+    },
+    {
+      "Amount": 878.41,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Research & Strategy split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6007 Employee Expenses:Payroll Taxes - SUTA"
+        },
+        "ClassRef": {
+          "name": "Programs:General Programs:Research & Strategy"
+        }
+      }
+    },
+    {
+      "Amount": 1651.43,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Services - Field Services split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6007 Employee Expenses:Payroll Taxes - SUTA"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - Field Services & Convening"
+        }
+      }
+    },
+    {
+      "Amount": 272.25,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - TBD split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6007 Employee Expenses:Payroll Taxes - SUTA"
+        },
+        "ClassRef": {
+          "name": "Programs"
+        }
+      }
+    },
+    {
+      "Amount": 121.31,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Admin split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6003 Employee Expenses:Employer 401k match contributions"
+        },
+        "ClassRef": {
+          "name": "Admin"
+        }
+      }
+    },
+    {
+      "Amount": 680.85,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Fundraising split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6003 Employee Expenses:Employer 401k match contributions"
+        },
+        "ClassRef": {
+          "name": "Fundraising"
+        }
+      }
+    },
+    {
+      "Amount": 539.04,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Philanthropic Education - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6003 Employee Expenses:Employer 401k match contributions"
+        },
+        "ClassRef": {
+          "name": "Programs:General Programs:Philanthropic Education"
+        }
+      }
+    },
+    {
+      "Amount": 547.3,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6003 Employee Expenses:Employer 401k match contributions"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - General"
+        }
+      }
+    },
+    {
+      "Amount": 722.86,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Grantmaking - Mgmt - FL split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6003 Employee Expenses:Employer 401k match contributions"
+        },
+        "ClassRef": {
+          "name": "Programs:Grantmaking:Management, Coordination, Advising:Florida"
+        }
+      }
+    },
+    {
+      "Amount": -207142.95,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Grantmaking - Mgmt - TX split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6003 Employee Expenses:Employer 401k match contributions"
+        },
+        "ClassRef": {
+          "name": "Programs:Grantmaking:Management, Coordination, Advising:Texas"
+        }
+      }
+    },
+    {
+      "Amount": 1944.0,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI- FL - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6003 Employee Expenses:Employer 401k match contributions"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - FL"
+        }
+      }
+    },
+    {
+      "Amount": 341.13,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Project AMPLIFI- TX - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6003 Employee Expenses:Employer 401k match contributions"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - AMPLIFI:AMPLIFI - TX"
+        }
+      }
+    },
+    {
+      "Amount": -26781.3,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Research & Strategy split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6003 Employee Expenses:Employer 401k match contributions"
+        },
+        "ClassRef": {
+          "name": "Programs:General Programs:Research & Strategy"
+        }
+      }
+    },
+    {
+      "Amount": -0.04,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "Programs - Services - Field Services split - see \"class splitter\" detail",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6003 Employee Expenses:Employer 401k match contributions"
+        },
+        "ClassRef": {
+          "name": "Programs:Services - Field Services & Convening"
+        }
+      }
+    },
+    {
+      "Amount": NaN,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "March Payroll",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "1010 Chase Checking"
+        }
+      }
+    },
+    {
+      "Amount": 1944.0,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "March Payroll",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6009 Employee Expenses:Payroll Processing Expenses"
+        },
+        "ClassRef": {
+          "name": "Admin:Deploy Income - Unrestricted"
+        }
+      }
+    },
+    {
+      "Amount": 341.13,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "March Payroll",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6903 Operations:Insurance - Workers Compensation, D&O"
+        },
+        "ClassRef": {
+          "name": "Admin:Deploy Income - Unrestricted"
+        }
+      }
+    },
+    {
+      "Amount": NaN,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "March Payroll",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "2401 Payroll Liabilities:Payroll Taxes - 401K"
+        }
+      }
+    },
+    {
+      "Amount": NaN,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": "tie to march report",
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "6009 Employee Expenses:Payroll Processing Expenses"
+        }
+      }
+    },
+    {
+      "Amount": 233924.29,
+      "Detail_type": "JournalEnteryLineDetail",
+      "Description": NaN,
+      "JournalEnteryLineDeatil": {
+        "PostingType": "Debit",
+        "AccountRef": {
+          "nmae": "Total"
+        }
+      }
+    }
+  ],
+  "TxnDate": "2025-03-31",
+  "PrivateNote": "imported pyroll journal via automation",
+  "DocNumber": "March payroll JE",
+  "Adjustment": "False"
+}
